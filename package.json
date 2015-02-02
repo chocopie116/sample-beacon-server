@@ -1,0 +1,22 @@
+{
+  "name": "sample-beacon-server",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/chocopie116/sample-beacon-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chocopie116/sample-beacon-server/issues"
+  },
+  "homepage": "https://github.com/chocopie116/sample-beacon-server",
+  "dependencies": {
+    "bleacon": "^0.2.0"
+  }
+}
